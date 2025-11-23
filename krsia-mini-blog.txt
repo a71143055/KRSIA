@@ -25,6 +25,7 @@ krsia-mini-blog/
  │   │   │               │   └── CommentRepository.java
  │   │   │               └── service
  │   │   │                   ├── UserService.java
+ │   │   │                   ├── CustomDetailsService.java
  │   │   │                   ├── PostService.java
  │   │   │                   └── CommentService.java
  │   │   └── resources
