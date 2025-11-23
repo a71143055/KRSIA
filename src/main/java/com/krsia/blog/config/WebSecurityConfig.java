@@ -1,6 +1,5 @@
 package com.krsia.blog.config;
 
-import com.krsia.blog.service.CustomUserDetailsService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.dao.DaoAuthenticationProvider;
